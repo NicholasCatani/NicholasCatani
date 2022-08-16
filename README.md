@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasCatani
-Detail-oriented and results-driven Information Science student who dazzles at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess sharp analytical skills, efficient in multitasking, have strong attention to detail, fast learner, and able to work in a team. 
+- Detail-oriented and results-driven Information Science student who dazzles at maintaining large databases, performing data collection and analysis, and conducting detailed reports. Possess sharp analytical skills, efficient in multitasking, have strong attention to detail, fast learner, and able to work in a team. 
 
 Deeply passionate about Quantitative analysis and Strategic Competition.
 
