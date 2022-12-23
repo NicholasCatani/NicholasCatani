@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NicholasCatani
 
-- I am passionate about Quantitative analysis and Strategic Competition.
-
 - 📫 How to reach me -- Nicholas.catani93@outlook.com
 
 <!---
