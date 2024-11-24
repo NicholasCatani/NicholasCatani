@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @NicholasCatani
 - 🎓 Dual MS holder in Analytics (Seattle Pacific University) and Computer Science (University of London)
 - 📫 How to reach me -- Nicholas.catani93@outlook.com
-- ✨ Passionate about AI agents
   
 <!---
 NicholasCatani/NicholasCatani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
